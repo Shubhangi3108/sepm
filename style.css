@@ -1,0 +1,100 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #fff;
+  text-align: center;
+}
+
+h1 {
+  font-size: 3rem;
+  font-weight: bold;
+  margin: 0 0 10px 0;
+}
+
+p {
+  font-size: 1.2rem;
+  line-height: 2rem;
+}
+
+main {
+  padding: 50px 0;
+}
+
+.hero {
+  text-align: center;
+}
+
+.hero img {
+  width: 100%;
+  max-width: 600px;
+}
+
+.hero h2 {
+  font-size: 2rem;
+  font-weight: bold;
+  margin: 20px 0 10px 0;
+}
+
+.hero p {
+  margin: 0 0 20px 0;
+}
+
+.hero .button {
+  background-color: #000;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+.services {
+  margin-top: 50px;
+}
+
+.services h2 {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.services ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.services li {
+  font-size: 1.2rem;
+  margin-bottom: 10px;
+}
+
+.contact {
+  margin-top: 50px;
+}
+
+.contact h2 {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.contact p {
+  font-size: 1.2rem;
+  margin-bottom: 10px;
+}
+
+.contact .button {
+  background-color: #000;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+footer {
+  background-color: #000;
+  color: #fff;
+  text-align: center;
+  padding: 20px 0;
+}
